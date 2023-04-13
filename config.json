@@ -55,8 +55,7 @@
         ],
         "pair_blacklist": [
             "DOGE/USDT",
-            "SOL/USDT",
-            "LTC/USDT"
+            "CGPT/USDT"
         ]
     },
     "pairlists": [
