@@ -88,7 +88,6 @@
                 "DERO/BTC",
                 "HBAR/BTC",
                 "KRL/BTC",
-                "SNTVT/BTC",
                 "CPC/BTC"
         ],
         "pair_blacklist": [
